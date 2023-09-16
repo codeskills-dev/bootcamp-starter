@@ -1,4 +1,5 @@
 # tribute-page-project
+![Tribute-page project](https://github.com/codeskills-dev/bootcamp-starter/assets/67395687/295ee44b-7f49-4ef3-bcdc-ebc789c8684a)
 
 Demo: https://tribute-page.freecodecamp.rocks/
 
