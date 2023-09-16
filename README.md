@@ -8,6 +8,14 @@ We're thrilled to have you join our coding bootcamp and [community](https://code
 
 Coding can be tough, but it's a lot easier when you're part of a supportive community. Here, you're not alone. Our community of learners, mentors, and fellow bootcamp members is here to help you every step of the way. Together, we'll conquer coding challenges and celebrate victories!
 
+### Prerequisites
+
+- Familiarity with Git and Github
+
+If you are new to Git and Github, check out this guide:
+
+- [Git and Github basics: A Beginner's Guide](https://blog.codeskills.dev/posts/git-and-github-basics-a-beginners-guide)
+
 ### Repo Structure 📁
 
 Let's get familiar with the structure of this repository:
