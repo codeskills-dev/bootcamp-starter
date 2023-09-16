@@ -1,4 +1,5 @@
 # technical-documentation-project
+![Tribute-page project (1)](https://github.com/codeskills-dev/bootcamp-starter/assets/67395687/9023536c-c12f-4f23-8849-6642362fa1dc)
 
 Demo: https://technical-documentation-page.freecodecamp.rocks/
 
