@@ -46,7 +46,7 @@ Now that you're prepared, let's dive into the roadmap and work towards that Resp
   - Link: [Learn HTML Forms by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-1)
   - Duration: 2 days
 
-- [ ] **Project #1**
+- [ ] [**Project #1**](/projects/project-1/README.md)
   - Duration: 3 days
 
 ### Day 13 - 24
@@ -71,7 +71,7 @@ Now that you're prepared, let's dive into the roadmap and work towards that Resp
   - Link: [Learn Accessibility by Building a Quiz](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-1)
   - Duration: 2 days
 
-- [ ] **Project #2**
+- [ ] [**Project #2**](/projects/project-2/README.md)
   - Duration: 3 days
 
 ### Day 25 - 34
@@ -91,7 +91,7 @@ Now that you're prepared, let's dive into the roadmap and work towards that Resp
   - Link: [Learn Responsive Web Design by Building a Piano](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano/step-1)
   - Duration: 2 days
 
-- [ ] **Project #3**
+- [ ] [**Project #3**](/projects/project-3/README.md)
   - Duration: 3 days
 
 ### Day 35 - 42
@@ -106,7 +106,7 @@ Now that you're prepared, let's dive into the roadmap and work towards that Resp
   - Link: [Learn CSS Grid by Building a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/step-1)
   - Duration: 2 days
 
-- [ ] **Project #4**
+- [ ] [**Project #4**](/projects/project-4/README.md)
   - Duration: 3 days
 
 ### Day 43 - 50
@@ -121,5 +121,5 @@ Now that you're prepared, let's dive into the roadmap and work towards that Resp
   - Link: [Learn CSS Transforms by Building a Penguin](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/step-1)
   - Duration: 2 days
 
-- [ ] **Project #5**
+- [ ] [**Project #5**](/projects/project-5/README.md)
   - Duration: 3 days
