@@ -33,6 +33,17 @@ Projects: Inside the [projects directory](/projects/), you'll find folders for a
   ```
 
 - Go through the Roadmap step by step and ensure to complete all previous task before moving forward.
+  As you go through each step, mark them as completed by adding an `x` in the `[ ]` in [ROADMAP.md](/ROADMAP.md)
+
+  ```md
+  <!-- Change this -->
+
+  - [ ] **General Introduction to Web Development**
+
+  <!-- To this -->
+
+  - [x] **General Introduction to Web Development**
+  ```
 
 - Create a new branch for each project you're working on.
 
