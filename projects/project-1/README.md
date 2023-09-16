@@ -1,4 +1,4 @@
-# survey-form-project
+# Survey-form-project
 
 ![Project-cover](https://github.com/codeskills-dev/bootcamp-starter/assets/67395687/01821ae8-26dd-45ea-8de6-2ac551664855)
 

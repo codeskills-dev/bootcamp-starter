@@ -1,4 +1,4 @@
-# personal-portfolio-project
+# Personal-portfolio-project
 
 ![Project-cover](https://github.com/codeskills-dev/bootcamp-starter/assets/67395687/57d40090-f426-41f0-8ab8-6410f92c4401)
 

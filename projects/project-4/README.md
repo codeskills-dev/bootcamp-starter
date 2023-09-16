@@ -1,4 +1,4 @@
-# product-landing-project
+# Product-landing-project
 
 ![Project-cover](https://github.com/codeskills-dev/bootcamp-starter/assets/67395687/a7cab3c0-8946-4437-a2e2-87bc5dfc2071)
 
