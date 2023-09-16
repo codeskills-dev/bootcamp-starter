@@ -22,9 +22,8 @@ Now that you're prepared, let's dive into the roadmap and work towards that Resp
 
 ### Day 0 - 12
 
-- **General Introduction to Web Development**
-
-  - Create an account on [FreeCodeCamp](https://www.freecodecamp.org/). [ ]
+- [ ] **General Introduction to Web Development**
+  - Create an account on [FreeCodeCamp](https://www.freecodecamp.org/).
 
 - **Learn HTML by Building a Cat Photo App**
 
