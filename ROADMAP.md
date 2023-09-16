@@ -23,102 +23,103 @@ Now that you're prepared, let's dive into the roadmap and work towards that Resp
 ### Day 0 - 12
 
 - [ ] **General Introduction to Web Development**
-  - Create an account on [FreeCodeCamp](https://www.freecodecamp.org/).
 
-- **Learn HTML by Building a Cat Photo App**
+  - Create an account on [FreeCodeCamp](https://www.freecodecamp.org/). [ ]
+
+- [ ] **Learn HTML by Building a Cat Photo App**
 
   - Link: [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
   - Duration: 2 days
 
-- **Learn Basic CSS by Building a Cafe Menu**
+- [ ] **Learn Basic CSS by Building a Cafe Menu**
 
   - Link: [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1)
   - Duration: 3 days
 
-- **Learn CSS Colors by Building a Set of Colored Markers**
+- [ ] **Learn CSS Colors by Building a Set of Colored Markers**
 
   - Link: [Learn CSS Colors by Building a Set of Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-1)
   - Duration: 2 days
 
-- **Learn HTML Forms by Building a Registration Form**
+- [ ] **Learn HTML Forms by Building a Registration Form**
 
   - Link: [Learn HTML Forms by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-1)
   - Duration: 2 days
 
-- **Project #1**
+- [ ] **Project #1**
   - Duration: 3 days
 
 ### Day 13 - 24
 
-- **Learn the CSS Box Model by Building a Rothko Painting**
+- [ ] **Learn the CSS Box Model by Building a Rothko Painting**
 
   - Link: [Learn the CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/step-1)
   - Duration: 2 days
 
-- **Learn CSS Flexbox by Building a Photo Gallery**
+- [ ] **Learn CSS Flexbox by Building a Photo Gallery**
 
   - Link: [Learn CSS Flexbox by Building a Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1)
   - Duration: 2 days
 
-- **Learn Typography by Building a Nutrition Label**
+- [ ] **Learn Typography by Building a Nutrition Label**
 
   - Link: [Learn Typography by Building a Nutrition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-1)
   - Duration: 2 days
 
-- **Learn Accessibility by Building a Quiz**
+- [ ] **Learn Accessibility by Building a Quiz**
 
   - Link: [Learn Accessibility by Building a Quiz](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-1)
   - Duration: 2 days
 
-- **Project #2**
+- [ ] **Project #2**
   - Duration: 3 days
 
 ### Day 25 - 34
 
-- **Learn More About CSS Pseudo Selectors by Building a Balance Sheet**
+- [ ] **Learn More About CSS Pseudo Selectors by Building a Balance Sheet**
 
   - Link: [Learn More About CSS Pseudo Selectors by Building a Balance Sheet](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet/step-1)
   - Duration: 2 days
 
-- **Learn Intermediate CSS by Building a Cat Painting**
+- [ ] **Learn Intermediate CSS by Building a Cat Painting**
 
   - Link: [Learn Intermediate CSS by Building a Cat Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-cat-painting/step-1)
   - Duration: 2 days
 
-- **Learn Responsive Web Design by Building a Piano**
+- [ ] **Learn Responsive Web Design by Building a Piano**
 
   - Link: [Learn Responsive Web Design by Building a Piano](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano/step-1)
   - Duration: 2 days
 
-- **Project #3**
+- [ ] **Project #3**
   - Duration: 3 days
 
 ### Day 35 - 42
 
-- **Learn CSS Variables by Building a City Skyline**
+- [ ] **Learn CSS Variables by Building a City Skyline**
 
   - Link: [Learn CSS Variables by Building a City Skyline](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline/step-1)
   - Duration: 2 days
 
-- **Learn CSS Grid by Building a Magazine**
+- [ ] **Learn CSS Grid by Building a Magazine**
 
   - Link: [Learn CSS Grid by Building a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/step-1)
   - Duration: 2 days
 
-- **Project #4**
+- [ ] **Project #4**
   - Duration: 3 days
 
 ### Day 43 - 50
 
-- **Learn CSS Animation by Building a Ferris Wheel**
+- [ ] **Learn CSS Animation by Building a Ferris Wheel**
 
   - Link: [Learn CSS Animation by Building a Ferris Wheel](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel/step-1)
   - Duration: 2 days
 
-- **Learn CSS Transforms by Building a Penguin**
+- [ ] **Learn CSS Transforms by Building a Penguin**
 
   - Link: [Learn CSS Transforms by Building a Penguin](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/step-1)
   - Duration: 2 days
 
-- **Project #5**
+- [ ] **Project #5**
   - Duration: 3 days
