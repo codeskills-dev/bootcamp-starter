@@ -11,10 +11,8 @@ Coding can be tough, but it's a lot easier when you're part of a supportive comm
 ### Prerequisites
 
 - Familiarity with Git and Github
-
-If you are new to Git and Github, check out this guide:
-
-- [Git and Github basics: A Beginner's Guide](https://blog.codeskills.dev/posts/git-and-github-basics-a-beginners-guide)
+- If you are new to Git and Github, check out this guide:
+  [Git and Github basics: A Beginner's Guide](https://blog.codeskills.dev/posts/git-and-github-basics-a-beginners-guide)
 
 ### Repo Structure 📁
 
@@ -30,31 +28,31 @@ Resources: The [resources directory](/resources/) contains helpful guides, and r
 
 - Clone your forked repository to your local machine.
 
-```sh
-git clone https://github.com/your-username/bootcamp-starter.git
-```
+  ```sh
+  git clone https://github.com/your-username/bootcamp-starter.git
+  ```
 
 - Create a new branch for each project you're working on.
 
-```sh
-git checkout -b project-1
-```
+  ```sh
+  git checkout -b project-1
+  ```
 
 - Commit your changes and push them to your fork.
 
-```sh
-git add .
-git commit -m "Project 1 complete"
-git push origin project-1
-```
+  ```sh
+  git add .
+  git commit -m "Project 1 complete"
+  git push origin project-1
+  ```
 
 - Merge your changes into the main branch in your fork.
 
-```sh
-git checkout master
-git merge project-1
-git push origin master
-```
+  ```sh
+  git checkout master
+  git merge project-1
+  git push origin master
+  ```
 
 - Create a PR in the [Bootcamp-submissions]() repo at the end of each project
 
