@@ -1,5 +1,7 @@
 # survey-form-project
 
+![Untitled design](https://github.com/codeskills-dev/bootcamp-starter/assets/67395687/01821ae8-26dd-45ea-8de6-2ac551664855)
+
 Demo: https://survey-form.freecodecamp.rocks/
 
 Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
