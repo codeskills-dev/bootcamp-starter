@@ -32,7 +32,7 @@ Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-surv
 
 Create a PR in the [Bootcamp-submissions]() repo
 
-- Format
+#### Format
 
 ```md
 - [username](https://github.com/username) - [project-name](link-to-project-branch)
