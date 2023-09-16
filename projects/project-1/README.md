@@ -30,7 +30,7 @@ Link: https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-surv
 
 ### Submissions
 
-Create a PR in the [Bootcamp-submissions]() repo
+Create a PR in the [Bootcamp-submissions](https://github.com/codeskills-dev/bootcamp-submissions) repo
 
 #### Format
 

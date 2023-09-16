@@ -54,7 +54,7 @@ Resources: The [resources directory](/resources/) contains helpful guides, and r
   git push origin master
   ```
 
-- Create a PR in the [Bootcamp-submissions]() repo at the end of each project
+- Create a PR in the [Bootcamp-submissions](https://github.com/codeskills-dev/bootcamp-submissions) repo at the end of each project
 
 - Create a new branch for the next project and follow all the steps.
 
