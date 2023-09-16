@@ -18,9 +18,9 @@ Coding can be tough, but it's a lot easier when you're part of a supportive comm
 
 Let's get familiar with the structure of this repository:
 
-Projects: Inside the [projects directory](/projects/), you'll find folders for all your coding projects. Each project comes with its own set of instructions and resources.
+Roadmap: The [ROADMAP.md](/ROADMAP.md) contains a breakdown of all you will learn during this program and the recommended order to follow them.
 
-Resources: The [resources directory](/resources/) contains helpful guides, and references to supercharge your learning.
+Projects: Inside the [projects directory](/projects/), you'll find folders for all your coding projects. Each project comes with its own set of instructions and resources.
 
 ### Getting Started 🚀
 
@@ -31,6 +31,8 @@ Resources: The [resources directory](/resources/) contains helpful guides, and r
   ```sh
   git clone https://github.com/your-username/bootcamp-starter.git
   ```
+
+- Go through the Roadmap step by step and ensure to complete all previous task before moving forward.
 
 - Create a new branch for each project you're working on.
 
