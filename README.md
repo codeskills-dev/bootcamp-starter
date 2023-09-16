@@ -37,13 +37,19 @@ Projects: Inside the [projects directory](/projects/), you'll find folders for a
 
   ```md
   <!-- Change this -->
-
   - [ ] **General Introduction to Web Development**
 
   <!-- To this -->
-
   - [x] **General Introduction to Web Development**
   ```
+
+  Checked off items will go from this
+  
+  ![Unchecked item](https://github.com/codeskills-dev/bootcamp-starter/assets/67395687/b43398e8-3caa-4cc9-92bc-cac50e974c86)
+
+  To this
+  
+  ![Checked item](https://github.com/codeskills-dev/bootcamp-starter/assets/67395687/799ce656-310a-4db4-855d-2fe8c8ba5159)
 
 - Create a new branch for each project you're working on.
 
