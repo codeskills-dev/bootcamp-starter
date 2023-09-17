@@ -25,7 +25,7 @@ Projects: Inside the [projects directory](/projects/), you'll find folders for a
 
 ### Getting Started 🚀
 
-- Fork It
+- [Fork this repo](https://github.com/codeskills-dev/bootcamp-starter/fork)
 
 - Clone your forked repository to your local machine.
 
