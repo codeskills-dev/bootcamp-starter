@@ -5,7 +5,7 @@
 
 We're thrilled to have you join our coding bootcamp and [community](https://codeskills.dev). This starter kit is your gateway to an exciting journey into the world of coding. While the road ahead may be challenging, remember that every coding rock star started right where you are now!
 
-Here is a [guide to get you started](https://blog.codeskills.dev/posts/how-to-setup-codeskills-bootcamp-starter)
+Here is a [guide to get you started with this starter-repo](https://blog.codeskills.dev/posts/how-to-setup-codeskills-bootcamp-starter)
 
 ### Together, We're Stronger 💪
 
