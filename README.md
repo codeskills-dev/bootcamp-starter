@@ -66,7 +66,7 @@ Projects: Inside the [projects directory](/projects/), you'll find folders for a
   git push origin project-1
   ```
 
-- Merge your changes into the main branch in your fork.
+- Merge your changes into the master branch in your fork.
 
   ```sh
   git checkout master
