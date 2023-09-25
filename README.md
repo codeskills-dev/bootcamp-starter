@@ -1,5 +1,8 @@
 # Welcome to Codeskills Bootcamp Starter! 🚀
-![bootcamp-starter](https://socialify.git.ci/codeskills-dev/bootcamp-starter/image?forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Auto)
+
+<p align="center">
+<img src="https://github.com/codeskills-dev/bootcamp-starter/assets/67395687/6e2ae467-2cf6-434d-ac04-bb02e05e52f2">
+</p>
 
 ### Welcome Coders! 👋
 
